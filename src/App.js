@@ -19,7 +19,7 @@ function App() {
       <h2>Some Space</h2>
       <p>I like react because I like making apps quickly from scratch. The problem is that I don't remember all the little tricks I've learned.  One thing I've done is make the logo a different svg file.  I guess I can just use an img tag and then make it spin by giving it a class of app-logo.</p>
       <p>I want to use best practices but it's hard to remember everything.  Hopefully this looks nice.</p>
-
+    <a href="https://maxjann.com">MJ</a>
     </div>
   );
 }
