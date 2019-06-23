@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 4vw;
 }
 
 .App-logo {
@@ -30,4 +32,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#vid{
+  padding: 3vw;
 }
